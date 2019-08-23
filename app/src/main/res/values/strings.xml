@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BoredApp</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac consectetur dui. Integer lacinia sapien quam, ut iaculis neque consequat in.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
